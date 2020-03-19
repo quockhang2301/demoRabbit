@@ -1,0 +1,10 @@
+D:\KHANG\project\demoRabbit\demoRabbit\bin\Debug\demoRabbit.exe.config
+D:\KHANG\project\demoRabbit\demoRabbit\bin\Debug\demoRabbit.exe
+D:\KHANG\project\demoRabbit\demoRabbit\bin\Debug\demoRabbit.pdb
+D:\KHANG\project\demoRabbit\demoRabbit\obj\Debug\demoRabbit.csprojAssemblyReference.cache
+D:\KHANG\project\demoRabbit\demoRabbit\obj\Debug\demoRabbit.Form1.resources
+D:\KHANG\project\demoRabbit\demoRabbit\obj\Debug\demoRabbit.Properties.Resources.resources
+D:\KHANG\project\demoRabbit\demoRabbit\obj\Debug\demoRabbit.csproj.GenerateResource.cache
+D:\KHANG\project\demoRabbit\demoRabbit\obj\Debug\demoRabbit.csproj.CoreCompileInputs.cache
+D:\KHANG\project\demoRabbit\demoRabbit\obj\Debug\demoRabbit.exe
+D:\KHANG\project\demoRabbit\demoRabbit\obj\Debug\demoRabbit.pdb
